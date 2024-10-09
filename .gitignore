@@ -1,0 +1,12 @@
+.DS_Store
+build
+dist
+pretrained_models/*
+ressources/*
+trials/*
+full_parameters_data.json
+small_parameters_data.json
+test.py
+full_parameters_data.json
+__pycache__
+setup.py
